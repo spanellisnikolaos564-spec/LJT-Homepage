@@ -60,7 +60,7 @@ Publications
 
 6. Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. "Composing Parameter-Efficient Modules with Arithmetic Operations." *NeurIPS 2023*.
 
-A full list is also available on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) and on the [publications page](/publications/).
+A full list is also available on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) and on the [publications page]({{ "/publications/" | relative_url }}).
 
 Contact
 ======
